@@ -1,5 +1,3 @@
-
-
 import requests
 from bs4 import BeautifulSoup
 import csv
@@ -16,8 +14,8 @@ logging.basicConfig(filename='scraper.log', level=logging.INFO, format='%(asctim
 
 
 KEYWORDS_LIST = ["intellectual property", "patent lawyer", "ip enforcement", "inventor", "patent holder"]
-NUM_ARTICLES_TO_SCRAPE = 25
-OUTPUT_CSV_FILENAME = "advanced_ip_news_data_v2.csv"
+NUM_ARTICLES_TO_SCRAPE = 50  
+OUTPUT_CSV_FILENAME = "advanced_ip_news_data_v3.csv"
 USER_AGENT_LIST = [ 
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/1460.1.57',
@@ -69,7 +67,7 @@ ARTICLE_CONTENT_SELECTORS = [
     'div.article__content',
     'div[itemprop="articleBody"]', 
     'div.content',              
-    'div#article-content',      
+    'div#article-content',     
     'div#content'
 ]
 ARTICLE_AUTHOR_SELECTORS = [ 
@@ -167,7 +165,7 @@ def _construct_ceid(language, country, period=None, start_date=None, end_date=No
     time_query = ''
     if start_date or end_date:
         if period:
-            warnings.warn(f'Period ({period}) will be ignored in favor of start and end dates.', UserWarning, stacklevel=3)
+            warnings.warn(message=f'Period ({period}) will be ignored in favor of start and end dates.', category=UserWarning, stacklevel=3)
         if end_date:
             time_query += '%20before%3A{}'.format(_format_date_param(end_date))
         if start_date:
@@ -207,6 +205,7 @@ def google_news_scraper(keywords, num_articles_limit=None, language=DEFAULT_LANG
 
         try:
             print(f"Fetching search page {page+1}...")
+            logging.info(f"Fetching search page {page+1}...") 
             response = requests.get(search_url, headers=headers, timeout=10) 
             response.raise_for_status()
             soup = BeautifulSoup(response.content, 'html.parser')
@@ -220,6 +219,12 @@ def google_news_scraper(keywords, num_articles_limit=None, language=DEFAULT_LANG
                     print(f"Warning: No news items found on page {page+1}. Search structure might have changed.")
                     break 
 
+            logging.info(f"Page {page+1}: Found {len(news_items)} news items.") 
+
+            if not news_items: 
+                print("Reached end of Google News results (no items on page).")
+                logging.info("Reached end of Google News results (no items on page).")
+                break 
 
             for item in news_items:
                 if num_articles_limit and articles_scraped_count >= num_articles_limit:
@@ -291,9 +296,9 @@ def google_news_scraper(keywords, num_articles_limit=None, language=DEFAULT_LANG
                     continue 
 
             page += 1
-            if len(news_items) < 10: 
-                print("Reached end of Google News results.")
-                logging.info("Reached end of Google News results.")
+            if not news_items: 
+                print("Reached end of Google News results (no items on page).")
+                logging.info("Reached end of Google News results (no items on page).")
                 break 
 
             time.sleep(get_random_delay()) 
@@ -317,10 +322,10 @@ if __name__ == "__main__":
     
     news_data = google_news_scraper(
         KEYWORDS_LIST,
-        num_articles_limit=20, 
+        num_articles_limit=50, 
         language="en", 
         country="India",   
-        period="7d",    
+        period=None,    
         
         
     )

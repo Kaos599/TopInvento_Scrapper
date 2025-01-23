@@ -148,3 +148,401 @@
 2025-01-23 22:17:18,924 - INFO - Extracting data for article: Silo Pharma Advances Intellectual Property Portfolio with Provisional Patent Filing for PTSD Treatment
 2025-01-23 22:17:25,196 - INFO - Scraping stopped: Reached article limit of 20.
 2025-01-23 22:17:25,200 - INFO - Data saved to advanced_ip_news_data_v2.csv
+2025-01-23 22:20:20,483 - INFO - Starting scraper for keywords: ['intellectual property', 'patent lawyer', 'ip enforcement', 'inventor', 'patent holder'], language: en, country: US, period: None, start_date: None, end_date: None. Target articles: 20
+2025-01-23 22:20:20,484 - INFO - Fetching search page 1...
+2025-01-23 22:20:22,724 - INFO - Page 1: Found 10 news items.
+2025-01-23 22:20:22,725 - INFO - Extracting data for article: InventHelp Inventor Develops New Personal Terrain Vehicle (KSG-103)
+2025-01-23 22:20:26,936 - INFO - Extracting data for article: InventHelp Inventor Develops New Stepladder Accessory (ITM-278)
+2025-01-23 22:20:30,626 - INFO - Extracting data for article: InventHelp Inventor Develops Improved Salt Truck (JMT-368) | State News | hjnews.com
+2025-01-23 22:20:40,255 - INFO - Extracting data for article: Ignite Specialty Risk Names Ankit Patel as U.S. Head of Intellectual Property Underwriting
+2025-01-23 22:20:44,913 - INFO - Extracting data for article: Intellectual Property News Q4 2024
+2025-01-23 22:20:46,673 - WARNING - Article content selectors failed for URL: https://www.dlapiper.com/es-PR/insights/publications/intellectual-property-news/2025/intellectual-property-news-q4-2024
+2025-01-23 22:20:48,482 - INFO - Extracting data for article: Hoth Therapeutics Expands Intellectual Property Portfolio with Acquisition of New Patent Applications
+2025-01-23 22:20:48,972 - INFO - Extracting data for article: Inventor of Kastle Systems building security system dead at 83
+2025-01-23 22:20:50,033 - INFO - Extracting data for article: San Diego robot inventor preserves indigenous languages while inspiring next generation
+2025-01-23 22:20:53,555 - INFO - Extracting data for article: Silo Pharma Advances Intellectual Property Portfolio with Provisional Patent Filing for PTSD Treatment
+2025-01-23 22:20:55,918 - INFO - Extracting data for article: InventHelp Inventor Develops Highly Portable, Durable, and Reusable Floor Product (IPL-705)
+2025-01-23 22:21:02,066 - INFO - Fetching search page 2...
+2025-01-23 22:21:05,718 - INFO - Page 2: Found 10 news items.
+2025-01-23 22:21:05,719 - INFO - Extracting data for article: InventHelp Inventor Develops Improved Product for Securing a Boat to a Lift (FJK-481)
+2025-01-23 22:21:09,036 - INFO - Extracting data for article: Katten Lands Intellectual Property Partner Nathan Smith in London
+2025-01-23 22:21:09,579 - INFO - Extracting data for article: InventHelp Inventor Develops New Trash Bag Dispenser (DNV-730)
+2025-01-23 22:21:12,132 - INFO - Extracting data for article: InventHelp Inventor Develops New Socket Plug Tool (HAD-336)
+2025-01-23 22:21:15,711 - INFO - Extracting data for article: InventHelp Inventor Develops New Clothes Dryer Venting System Kit (HBR-390)
+2025-01-23 22:21:19,771 - INFO - Extracting data for article: InventHelp Inventor Develops New Aviation Canopy Shade Cover (FMB-289)
+2025-01-23 22:21:24,556 - INFO - Extracting data for article: InventHelp Inventor Develops Multi-Purpose Tool Bench Product (FJK-464)
+2025-01-23 22:21:28,713 - INFO - Extracting data for article: InventHelp Inventor Develops Smaller Caulking Gun (DAL-569)
+2025-01-23 22:21:29,814 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250122ne98049/inventhelp-inventor-develops-smaller-caulking-gun-dal-569
+2025-01-23 22:21:30,411 - INFO - Extracting data for article: InventHelp Inventor Develops New Laser Tool with Anchoring System (DAL-566)
+2025-01-23 22:21:31,004 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250122ne98048/inventhelp-inventor-develops-new-laser-tool-with-anchoring-system-dal-566
+2025-01-23 22:21:31,865 - INFO - Extracting data for article: InventHelp Inventor Develops Modified Air Filter (ACC-239)
+2025-01-23 22:21:32,481 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250121ne97954/inventhelp-inventor-develops-modified-air-filter-acc-239
+2025-01-23 22:21:36,099 - INFO - Fetching search page 3...
+2025-01-23 22:21:38,701 - INFO - Page 3: Found 10 news items.
+2025-01-23 22:21:38,702 - INFO - Scraping stopped: Reached article limit of 20.
+2025-01-23 22:23:45,685 - INFO - Starting scraper for keywords: ['intellectual property', 'patent lawyer', 'ip enforcement', 'inventor', 'patent holder'], language: en, country: US, period: None, start_date: None, end_date: None. Target articles: 20
+2025-01-23 22:23:45,685 - INFO - Fetching search page 1...
+2025-01-23 22:23:49,590 - INFO - Page 1: Found 10 news items.
+2025-01-23 22:23:49,591 - INFO - Extracting data for article: InventHelp Inventor Develops New Personal Terrain Vehicle (KSG-103)
+2025-01-23 22:23:53,819 - INFO - Extracting data for article: InventHelp Inventor Develops New Stepladder Accessory (ITM-278)
+2025-01-23 22:23:55,217 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250123ne98359/inventhelp-inventor-develops-new-stepladder-accessory-itm-278
+2025-01-23 22:23:55,803 - INFO - Extracting data for article: InventHelp Inventor Develops Improved Salt Truck (JMT-368) | State News | hjnews.com
+2025-01-23 22:24:04,393 - INFO - Extracting data for article: Ignite Specialty Risk Names Ankit Patel as U.S. Head of Intellectual Property Underwriting
+2025-01-23 22:24:08,898 - INFO - Extracting data for article: Intellectual Property News Q4 2024
+2025-01-23 22:24:10,779 - WARNING - Article content selectors failed for URL: https://www.dlapiper.com/es-PR/insights/publications/intellectual-property-news/2025/intellectual-property-news-q4-2024
+2025-01-23 22:24:12,550 - INFO - Extracting data for article: Hoth Therapeutics Expands Intellectual Property Portfolio with Acquisition of New Patent Applications
+2025-01-23 22:24:13,360 - INFO - Extracting data for article: Inventor of Kastle Systems building security system dead at 83
+2025-01-23 22:24:13,865 - INFO - Extracting data for article: San Diego robot inventor preserves indigenous languages while inspiring next generation
+2025-01-23 22:24:16,491 - INFO - Extracting data for article: Silo Pharma Advances Intellectual Property Portfolio with Provisional Patent Filing for PTSD Treatment
+2025-01-23 22:24:18,168 - INFO - Extracting data for article: InventHelp Inventor Develops Highly Portable, Durable, and Reusable Floor Product (IPL-705)
+2025-01-23 22:24:25,411 - INFO - Fetching search page 2...
+2025-01-23 22:24:29,248 - INFO - Page 2: Found 10 news items.
+2025-01-23 22:24:29,249 - INFO - Extracting data for article: InventHelp Inventor Develops Highly Portable, Durable, and Reusable Floor Product (IPL-705)
+2025-01-23 22:24:34,692 - INFO - Extracting data for article: Katten Lands Intellectual Property Partner Nathan Smith in London
+2025-01-23 22:24:35,148 - INFO - Extracting data for article: InventHelp Inventor Develops New Trash Bag Dispenser (DNV-730)
+2025-01-23 22:24:35,893 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250122ne98057/inventhelp-inventor-develops-new-trash-bag-dispenser-dnv-730
+2025-01-23 22:24:36,571 - INFO - Extracting data for article: InventHelp Inventor Develops New Socket Plug Tool (HAD-336)
+2025-01-23 22:24:40,097 - INFO - Extracting data for article: InventHelp Inventor Develops New Clothes Dryer Venting System Kit (HBR-390)
+2025-01-23 22:24:43,906 - INFO - Extracting data for article: InventHelp Inventor Develops New Aviation Canopy Shade Cover (FMB-289)
+2025-01-23 22:24:47,684 - INFO - Extracting data for article: InventHelp Inventor Develops Multi-Purpose Tool Bench Product (FJK-464)
+2025-01-23 22:24:51,706 - INFO - Extracting data for article: InventHelp Inventor Develops Smaller Caulking Gun (DAL-569)
+2025-01-23 22:24:52,341 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250122ne98049/inventhelp-inventor-develops-smaller-caulking-gun-dal-569
+2025-01-23 22:24:53,060 - INFO - Extracting data for article: InventHelp Inventor Develops New Laser Tool with Anchoring System (DAL-566)
+2025-01-23 22:24:53,778 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250122ne98048/inventhelp-inventor-develops-new-laser-tool-with-anchoring-system-dal-566
+2025-01-23 22:24:54,756 - INFO - Extracting data for article: InventHelp Inventor Develops Modified Air Filter (ACC-239)
+2025-01-23 22:24:55,374 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250121ne97954/inventhelp-inventor-develops-modified-air-filter-acc-239
+2025-01-23 22:24:58,066 - INFO - Fetching search page 3...
+2025-01-23 22:25:00,208 - INFO - Page 3: Found 10 news items.
+2025-01-23 22:25:00,208 - INFO - Scraping stopped: Reached article limit of 20.
+2025-01-23 22:25:00,211 - INFO - Data saved to advanced_ip_news_data_v3.csv
+2025-01-23 22:26:58,464 - INFO - Starting scraper for keywords: ['intellectual property', 'patent lawyer', 'ip enforcement', 'inventor', 'patent holder'], language: en, country: India, period: None, start_date: None, end_date: None. Target articles: 50
+2025-01-23 22:26:58,464 - INFO - Fetching search page 1...
+2025-01-23 22:27:00,894 - INFO - Page 1: Found 10 news items.
+2025-01-23 22:27:00,894 - INFO - Extracting data for article: Macrotech Developers clarifies on suit filed to protect Intellectual Property rights
+2025-01-23 22:27:02,049 - WARNING - Article content selectors failed for URL: https://www.cnbctv18.com/market/stocks/macrotech-developers-share-price-clarifies-on-suit-filed-to-protect-intellectual-property-rights-19544893.htm/amp
+2025-01-23 22:27:02,982 - INFO - Extracting data for article: InventHelp Inventor Develops New Stepladder Accessory (ITM-278)
+2025-01-23 22:27:06,491 - INFO - Extracting data for article: InventHelp Inventor Develops New Personal Terrain Vehicle (KSG-103)
+2025-01-23 22:27:10,614 - INFO - Extracting data for article: Intellectual Property News Q4 2024
+2025-01-23 22:27:12,469 - WARNING - Article content selectors failed for URL: https://www.dlapiper.com/es-PR/insights/publications/intellectual-property-news/2025/intellectual-property-news-q4-2024
+2025-01-23 22:27:13,915 - INFO - Extracting data for article: Hoth Therapeutics Expands Intellectual Property Portfolio with Acquisition of New Patent Applications
+2025-01-23 22:27:14,497 - INFO - Extracting data for article: InventHelp Inventor Develops Improved Salt Truck (JMT-368) | State News | hjnews.com
+2025-01-23 22:27:22,922 - INFO - Extracting data for article: China says it's open to communication with EU on intellectual property
+2025-01-23 22:27:24,709 - WARNING - Article content selectors failed for URL: https://news.cgtn.com/news/2025-01-21/China-says-it-s-open-to-communication-with-EU-on-intellectual-property-1AkRZEj6b4s/p.html
+2025-01-23 22:27:25,730 - INFO - Extracting data for article: Davos 2025: Future of IT services lies in intellectual property, says Francisco D’Souza
+2025-01-23 22:27:26,285 - INFO - Extracting data for article: Ignite Specialty Risk Names Ankit Patel as U.S. Head of Intellectual Property Underwriting
+2025-01-23 22:27:31,679 - INFO - Extracting data for article: InventHelp Inventor Develops Modified Cooler to Increase Visibility (DAL-337)
+2025-01-23 22:27:31,912 - ERROR - Error fetching article content from https://www.fox44news.com/business/press-releases/cision/20250122NE98047/inventhelp-inventor-develops-modified-cooler-to-increase-visibility-dal-337: 403 Client Error: Forbidden for url: https://www.fox44news.com/business/press-releases/cision/20250122NE98047/inventhelp-inventor-develops-modified-cooler-to-increase-visibility-dal-337
+2025-01-23 22:27:35,026 - INFO - Fetching search page 2...
+2025-01-23 22:27:37,257 - INFO - Page 2: Found 10 news items.
+2025-01-23 22:27:37,258 - INFO - Extracting data for article: Silo Pharma Advances Intellectual Property Portfolio with Provisional Patent Filing for PTSD Treatment
+2025-01-23 22:27:39,368 - INFO - Extracting data for article: Intellectual property: EU takes China's trade practices to the WTO again
+2025-01-23 22:27:42,831 - ERROR - Error fetching article content from https://table.media/en/china/news/intellectual-property-eu-takes-chinas-trade-practices-to-the-wto-again/: 404 Client Error: Not Found for url: https://table.media/en/china/news/intellectual-property-eu-takes-chinas-trade-practices-to-the-wto-again/
+2025-01-23 22:27:43,746 - INFO - Extracting data for article: InventHelp Inventor Develops Smaller Caulking Gun (DAL-569)
+2025-01-23 22:27:44,635 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250122ne98049/inventhelp-inventor-develops-smaller-caulking-gun-dal-569
+2025-01-23 22:27:45,400 - INFO - Extracting data for article: InventHelp Inventor Develops Decorative Dispenser for Bags of Wine/Liquor (CSK-636)
+2025-01-23 22:27:45,699 - ERROR - Error fetching article content from https://www.fox44news.com/business/press-releases/cision/20250120NE94582/inventhelp-inventor-develops-decorative-dispenser-for-bags-of-wine-liquor-csk-636/: 403 Client Error: Forbidden for url: https://www.fox44news.com/business/press-releases/cision/20250120NE94582/inventhelp-inventor-develops-decorative-dispenser-for-bags-of-wine-liquor-csk-636/
+2025-01-23 22:27:45,952 - INFO - Extracting data for article: InventHelp Inventor Develops Highly Portable, Durable, and Reusable Floor Product (IPL-705)
+2025-01-23 22:27:50,782 - INFO - Extracting data for article: InventHelp Inventor Develops New Socket Plug Tool (HAD-336)
+2025-01-23 22:27:56,003 - INFO - Extracting data for article: InventHelp Inventor Develops Toothbrush for Those with Compromised Hand Strength (DCD-386)
+2025-01-23 22:27:59,586 - INFO - Extracting data for article: Katten Lands Intellectual Property Partner Nathan Smith in London
+2025-01-23 22:28:00,277 - INFO - Extracting data for article: InventHelp Inventor Develops Modified Tape Measure (BKC-273)
+2025-01-23 22:28:03,891 - INFO - Extracting data for article: InventHelp Inventor Develops Multi-Purpose Tool Bench Product (FJK-464)
+2025-01-23 22:28:09,783 - INFO - Fetching search page 3...
+2025-01-23 22:28:12,177 - INFO - Page 3: Found 10 news items.
+2025-01-23 22:28:12,177 - INFO - Extracting data for article: InventHelp Inventor Develops Improved Product for Securing a Boat to a Lift (FJK-481)
+2025-01-23 22:28:13,037 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250122ne98060/inventhelp-inventor-develops-improved-product-for-securing-a-boat-to-a-lift-fjk-481
+2025-01-23 22:28:13,686 - INFO - Extracting data for article: InventHelp Inventor Develops New Clothes Dryer Venting System Kit (HBR-390)
+2025-01-23 22:28:17,718 - INFO - Extracting data for article: InventHelp Inventor Develops New Shoe Sanitizing Mat (BDH-346)
+2025-01-23 22:28:18,419 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250121ne97960/inventhelp-inventor-develops-new-shoe-sanitizing-mat-bdh-346
+2025-01-23 22:28:18,983 - INFO - Extracting data for article: InventHelp Inventor Develops New Aviation Canopy Shade Cover (FMB-289)
+2025-01-23 22:28:22,766 - INFO - Extracting data for article: Intellectual Property Group Of The Year: Morgan Lewis
+2025-01-23 22:28:26,021 - INFO - Extracting data for article: InventHelp Inventor Develops Modified Air Filter (ACC-239)
+2025-01-23 22:28:26,662 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250121ne97954/inventhelp-inventor-develops-modified-air-filter-acc-239
+2025-01-23 22:28:27,243 - INFO - Extracting data for article: InventHelp Inventor Develops Specially Designed Beverage Warmer (CCT-4925)
+2025-01-23 22:28:27,796 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250121ne97974/inventhelp-inventor-develops-specially-designed-beverage-warmer-cct-4925
+2025-01-23 22:28:28,639 - INFO - Extracting data for article: Inventor of Kastle Systems building security system dead at 83
+2025-01-23 22:28:29,527 - INFO - Extracting data for article: InventHelp Inventor Develops New Foot Soaking Tub (BDH-352)
+2025-01-23 22:28:30,238 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250121ne97961/inventhelp-inventor-develops-new-foot-soaking-tub-bdh-352
+2025-01-23 22:28:30,848 - INFO - Extracting data for article: InventHelp Inventor Develops New Screen Product for Vehicle Windows (ASP-385)
+2025-01-23 22:28:31,485 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250121ne97958/inventhelp-inventor-develops-new-screen-product-for-vehicle-windows-asp-385
+2025-01-23 22:28:34,461 - INFO - Fetching search page 4...
+2025-01-23 22:28:36,917 - INFO - Page 4: Found 10 news items.
+2025-01-23 22:28:36,917 - INFO - Extracting data for article: InventHelp Inventor Develops New Laser Tool with Anchoring System (DAL-566)
+2025-01-23 22:28:37,506 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250122ne98048/inventhelp-inventor-develops-new-laser-tool-with-anchoring-system-dal-566
+2025-01-23 22:28:38,173 - INFO - Extracting data for article: InventHelp Inventor Develops New Trash Bag Dispenser (DNV-730)
+2025-01-23 22:28:39,018 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250122ne98057/inventhelp-inventor-develops-new-trash-bag-dispenser-dnv-730
+2025-01-23 22:28:39,880 - INFO - Extracting data for article: Sports News | 'Bazball' Inventor McCullum Says England Will Play 'watchful' Cricket in India
+2025-01-23 22:28:44,170 - INFO - Extracting data for article: Balls to it! Inventor Builds Self-Balancing Bike Without Wheels
+2025-01-23 22:28:46,753 - INFO - Extracting data for article: ODDITY Acquires Intellectual Property and Elite AI Research Team to Accelerate AI Capabilities
+2025-01-23 22:28:52,023 - INFO - Extracting data for article: Hoth Therapeutics Expands Cancer Drug Patent Portfolio, Strengthens HT-001 Development Strategy
+2025-01-23 22:28:54,780 - INFO - Extracting data for article: InventHelp Inventor Develops New Weight Sensing Security Pad for Vehicles (FMB-285)
+2025-01-23 22:28:56,064 - ERROR - Error fetching article content from https://www.kxan.com/business/press-releases/cision/20250122NE98061/inventhelp-inventor-develops-new-weight-sensing-security-pad-for-vehicles-fmb-285: 403 Client Error: Forbidden for url: https://www.kxan.com/business/press-releases/cision/20250122NE98061/inventhelp-inventor-develops-new-weight-sensing-security-pad-for-vehicles-fmb-285
+2025-01-23 22:28:57,142 - INFO - Extracting data for article: InventHelp Inventor Develops New Sports Scrubs for Medical Workers (CHK-1169)
+2025-01-23 22:28:57,836 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250120ne94573/inventhelp-inventor-develops-new-sports-scrubs-for-medical-workers-chk-1169
+2025-01-23 22:28:58,481 - INFO - Extracting data for article: InventHelp Inventor Develops New Nightstand for Storing a CPAP Machine (BEC-405)
+2025-01-23 22:28:59,134 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250121ne97962/inventhelp-inventor-develops-new-nightstand-for-storing-a-cpap-machine-bec-405
+2025-01-23 22:28:59,976 - INFO - Extracting data for article: InventHelp Inventor Develops Modified Lights for Christmas Trees (DCD-416)
+2025-01-23 22:29:00,184 - ERROR - Error fetching article content from https://www.cnyhomepage.com/business/press-releases/cision/20250122NE98054/inventhelp-inventor-develops-modified-lights-for-christmas-trees-dcd-416: 403 Client Error: Forbidden for url: https://www.cnyhomepage.com/business/press-releases/cision/20250122NE98054/inventhelp-inventor-develops-modified-lights-for-christmas-trees-dcd-416
+2025-01-23 22:29:01,778 - INFO - Fetching search page 5...
+2025-01-23 22:29:04,367 - INFO - Page 5: Found 10 news items.
+2025-01-23 22:29:04,368 - INFO - Extracting data for article: Agency News | \u26a1‘Bazball’ Inventor Brendon McCullum Says England Will Play ‘Watchful’ Cricket in India
+2025-01-23 22:29:05,994 - WARNING - Article content selectors failed for URL: https://www.latestly.com/quickly/agency-news/bazball-inventor-brendon-mccullum-says-england-will-play-watchful-cricket-in-india-6580548.html
+2025-01-23 22:29:06,785 - INFO - Extracting data for article: InventHelp Inventor Develops Improved Bedding Option for a Bunk/Loft Bed (CSK-650)
+2025-01-23 22:29:10,752 - INFO - Extracting data for article: InventHelp Inventor Develops New Activity/Toss Game (BKC-296)
+2025-01-23 22:29:11,003 - ERROR - Error fetching article content from https://www.kron4.com/business/press-releases/cision/20250121NE97971/inventhelp-inventor-develops-new-activity-toss-game-bkc-296: 403 Client Error: Forbidden for url: https://www.kron4.com/business/press-releases/cision/20250121NE97971/inventhelp-inventor-develops-new-activity-toss-game-bkc-296
+2025-01-23 22:29:11,237 - INFO - Extracting data for article: Semiconductor Intellectual Property (IP) Market is likely to expand US$ 11.0 Billion at 8.97% CAGR by 2032
+2025-01-23 22:29:12,874 - ERROR - Error fetching article content from https://www.einnews.com/pr_news/778846851/semiconductor-intellectual-property-ip-market-is-likely-to-expand-us-11-0-billion-at-8-97-cagr-by-2032: 403 Client Error: Forbidden for url: https://www.einnews.com/pr_news/778846851/semiconductor-intellectual-property-ip-market-is-likely-to-expand-us-11-0-billion-at-8-97-cagr-by-2032
+2025-01-23 22:29:13,576 - INFO - Extracting data for article: InventHelp Inventor Develops Modified Weed Trimmer (CSK-648)
+2025-01-23 22:29:13,773 - ERROR - Error fetching article content from https://www.kxan.com/business/press-releases/cision/20250120NE94585/inventhelp-inventor-develops-modified-weed-trimmer-csk-648: 403 Client Error: Forbidden for url: https://www.kxan.com/business/press-releases/cision/20250120NE94585/inventhelp-inventor-develops-modified-weed-trimmer-csk-648
+2025-01-23 22:29:14,009 - INFO - Extracting data for article: InventHelp Inventor Develops New Cooling Product for Palms (BKC-257)
+2025-01-23 22:29:14,269 - ERROR - Error fetching article content from https://www.wjtv.com/business/press-releases/cision/20250121NE97963/inventhelp-inventor-develops-new-cooling-product-for-palms-bkc-257: 403 Client Error: Forbidden for url: https://www.wjtv.com/business/press-releases/cision/20250121NE97963/inventhelp-inventor-develops-new-cooling-product-for-palms-bkc-257
+2025-01-23 22:29:14,492 - INFO - Extracting data for article: Patent filings credit Bharat Biotech as ‘inventor’ of Covaxin, omit ICMR
+2025-01-23 22:29:15,430 - INFO - Extracting data for article: 2024 News items - Intellectual property teachers, researchers: WIPO-WTO Colloquium is open for applications
+2025-01-23 22:29:17,365 - WARNING - Article content selectors failed for URL: https://www.wto.org/english/news_e/news24_e/igo_05nov24_e.htm
+2025-01-23 22:29:18,264 - INFO - Extracting data for article: Daiichi Sankyo Acquires Intellectual Property Rights for Anti-TA-MUC1 Antibody in DS-3939 from Glycotope GmbH
+2025-01-23 22:29:34,504 - ERROR - Error fetching article content from https://www.businesswire.com/news/home/20250113621008/en/Daiichi-Sankyo-Acquires-Intellectual-Property-Rights-for-Anti-TA-MUC1-Antibody-in-DS-3939-from-Glycotope-GmbH: HTTPSConnectionPool(host='www.businesswire.com', port=443): Read timed out. (read timeout=15)
+2025-01-23 22:29:45,184 - ERROR - Error processing news item: HTTPSConnectionPool(host='www.businesswire.com', port=443): Read timed out. (read timeout=10)
+Traceback (most recent call last):
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 464, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1395, in getresponse
+    response.begin()
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 325, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 286, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1314, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1166, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 538, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 369, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='www.businesswire.com', port=443): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "e:\Stuff\Study\Programs\TopInvento_Scrapper\main3.py", line 274, in google_news_scraper
+    article_soup_for_metadata = BeautifulSoup(requests.get(link, headers={'User-Agent': get_random_user_agent()}, timeout=10).content, 'html.parser')
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 713, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.businesswire.com', port=443): Read timed out. (read timeout=10)
+2025-01-23 22:29:45,364 - INFO - Extracting data for article: The Art Of A Good Unicorn | Why Intellectual Property could be the best investment for Indian startups
+2025-01-23 22:29:48,567 - WARNING - Article content selectors failed for URL: https://www.hindustantimes.com/opinion/the-art-of-a-good-unicorn-why-intellectual-property-could-be-the-best-investment-for-indian-startups-101730888072193.html
+2025-01-23 22:29:51,819 - INFO - Fetching search page 6...
+2025-01-23 22:29:54,016 - INFO - Page 6: Found 10 news items.
+2025-01-23 22:29:54,016 - INFO - Extracting data for article: The Art Of A Good Unicorn | Why Intellectual Property could be the best investment for Indian startups
+2025-01-23 22:29:55,254 - WARNING - Article content selectors failed for URL: https://www.hindustantimes.com/opinion/the-art-of-a-good-unicorn-why-intellectual-property-could-be-the-best-investment-for-indian-startups-101730888072193.html
+2025-01-23 22:29:56,387 - INFO - Scraping stopped: Reached article limit of 50.
+2025-01-23 22:30:35,175 - INFO - Starting scraper for keywords: ['intellectual property', 'patent lawyer', 'ip enforcement', 'inventor', 'patent holder'], language: en, country: India, period: None, start_date: None, end_date: None. Target articles: 50
+2025-01-23 22:30:35,176 - INFO - Fetching search page 1...
+2025-01-23 22:30:39,120 - INFO - Page 1: Found 10 news items.
+2025-01-23 22:30:39,121 - INFO - Extracting data for article: Macrotech Developers clarifies on suit filed to protect Intellectual Property rights
+2025-01-23 22:30:40,751 - WARNING - Article content selectors failed for URL: https://www.cnbctv18.com/market/stocks/macrotech-developers-share-price-clarifies-on-suit-filed-to-protect-intellectual-property-rights-19544893.htm/amp
+2025-01-23 22:30:41,716 - INFO - Extracting data for article: InventHelp Inventor Develops New Stepladder Accessory (ITM-278)
+2025-01-23 22:30:42,570 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250123ne98359/inventhelp-inventor-develops-new-stepladder-accessory-itm-278
+2025-01-23 22:30:43,140 - INFO - Extracting data for article: InventHelp Inventor Develops New Personal Terrain Vehicle (KSG-103)
+2025-01-23 22:30:47,113 - INFO - Extracting data for article: Intellectual Property News Q4 2024
+2025-01-23 22:30:49,039 - WARNING - Article content selectors failed for URL: https://www.dlapiper.com/es-PR/insights/publications/intellectual-property-news/2025/intellectual-property-news-q4-2024
+2025-01-23 22:30:50,549 - INFO - Extracting data for article: Hoth Therapeutics Expands Intellectual Property Portfolio with Acquisition of New Patent Applications
+2025-01-23 22:30:51,338 - INFO - Extracting data for article: InventHelp Inventor Develops Improved Salt Truck (JMT-368) | State News | hjnews.com
+2025-01-23 22:30:59,797 - INFO - Extracting data for article: China says it's open to communication with EU on intellectual property
+2025-01-23 22:31:00,993 - WARNING - Article content selectors failed for URL: https://news.cgtn.com/news/2025-01-21/China-says-it-s-open-to-communication-with-EU-on-intellectual-property-1AkRZEj6b4s/p.html
+2025-01-23 22:31:02,176 - INFO - Extracting data for article: Davos 2025: Future of IT services lies in intellectual property, says Francisco D’Souza
+2025-01-23 22:31:02,813 - INFO - Extracting data for article: Ignite Specialty Risk Names Ankit Patel as U.S. Head of Intellectual Property Underwriting
+2025-01-23 22:31:08,426 - INFO - Extracting data for article: InventHelp Inventor Develops Modified Cooler to Increase Visibility (DAL-337)
+2025-01-23 22:31:08,669 - ERROR - Error fetching article content from https://www.fox44news.com/business/press-releases/cision/20250122NE98047/inventhelp-inventor-develops-modified-cooler-to-increase-visibility-dal-337: 403 Client Error: Forbidden for url: https://www.fox44news.com/business/press-releases/cision/20250122NE98047/inventhelp-inventor-develops-modified-cooler-to-increase-visibility-dal-337
+2025-01-23 22:31:11,038 - INFO - Fetching search page 2...
+2025-01-23 22:31:13,160 - INFO - Page 2: Found 10 news items.
+2025-01-23 22:31:13,160 - INFO - Extracting data for article: Silo Pharma Advances Intellectual Property Portfolio with Provisional Patent Filing for PTSD Treatment
+2025-01-23 22:31:15,628 - INFO - Extracting data for article: Intellectual property: EU takes China's trade practices to the WTO again
+2025-01-23 22:31:18,314 - ERROR - Error fetching article content from https://table.media/en/china/news/intellectual-property-eu-takes-chinas-trade-practices-to-the-wto-again/: 404 Client Error: Not Found for url: https://table.media/en/china/news/intellectual-property-eu-takes-chinas-trade-practices-to-the-wto-again/
+2025-01-23 22:31:19,094 - INFO - Extracting data for article: InventHelp Inventor Develops Smaller Caulking Gun (DAL-569)
+2025-01-23 22:31:19,719 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250122ne98049/inventhelp-inventor-develops-smaller-caulking-gun-dal-569
+2025-01-23 22:31:20,344 - INFO - Extracting data for article: InventHelp Inventor Develops Decorative Dispenser for Bags of Wine/Liquor (CSK-636)
+2025-01-23 22:31:20,728 - ERROR - Error fetching article content from https://www.fox44news.com/business/press-releases/cision/20250120NE94582/inventhelp-inventor-develops-decorative-dispenser-for-bags-of-wine-liquor-csk-636/: 403 Client Error: Forbidden for url: https://www.fox44news.com/business/press-releases/cision/20250120NE94582/inventhelp-inventor-develops-decorative-dispenser-for-bags-of-wine-liquor-csk-636/
+2025-01-23 22:31:20,946 - INFO - Extracting data for article: InventHelp Inventor Develops Highly Portable, Durable, and Reusable Floor Product (IPL-705)
+2025-01-23 22:31:25,080 - INFO - Extracting data for article: InventHelp Inventor Develops Toothbrush for Those with Compromised Hand Strength (DCD-386)
+2025-01-23 22:31:25,776 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250122ne98052/inventhelp-inventor-develops-toothbrush-for-those-with-compromised-hand-strength-dcd-386
+2025-01-23 22:31:26,484 - INFO - Extracting data for article: InventHelp Inventor Develops New Socket Plug Tool (HAD-336)
+2025-01-23 22:31:29,991 - INFO - Extracting data for article: Katten Lands Intellectual Property Partner Nathan Smith in London
+2025-01-23 22:31:30,663 - INFO - Extracting data for article: InventHelp Inventor Develops Modified Tape Measure (BKC-273)
+2025-01-23 22:31:36,282 - INFO - Extracting data for article: InventHelp Inventor Develops Multi-Purpose Tool Bench Product (FJK-464)
+2025-01-23 22:31:41,838 - INFO - Fetching search page 3...
+2025-01-23 22:31:44,443 - INFO - Page 3: Found 10 news items.
+2025-01-23 22:31:44,445 - INFO - Extracting data for article: InventHelp Inventor Develops Improved Product for Securing a Boat to a Lift (FJK-481)
+2025-01-23 22:31:45,640 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250122ne98060/inventhelp-inventor-develops-improved-product-for-securing-a-boat-to-a-lift-fjk-481
+2025-01-23 22:31:46,399 - INFO - Extracting data for article: InventHelp Inventor Develops New Clothes Dryer Venting System Kit (HBR-390)
+2025-01-23 22:31:50,648 - INFO - Extracting data for article: InventHelp Inventor Develops New Aviation Canopy Shade Cover (FMB-289)
+2025-01-23 22:31:55,097 - INFO - Extracting data for article: Intellectual Property Group Of The Year: Morgan Lewis
+2025-01-23 22:31:58,389 - INFO - Extracting data for article: InventHelp Inventor Develops Modified Air Filter (ACC-239)
+2025-01-23 22:31:59,072 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250121ne97954/inventhelp-inventor-develops-modified-air-filter-acc-239
+2025-01-23 22:31:59,725 - INFO - Extracting data for article: InventHelp Inventor Develops Specially Designed Beverage Warmer (CCT-4925)
+2025-01-23 22:32:00,469 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250121ne97974/inventhelp-inventor-develops-specially-designed-beverage-warmer-cct-4925
+2025-01-23 22:32:01,006 - INFO - Extracting data for article: Inventor of Kastle Systems building security system dead at 83
+2025-01-23 22:32:01,360 - INFO - Extracting data for article: InventHelp Inventor Develops New Foot Soaking Tub (BDH-352)
+2025-01-23 22:32:02,186 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250121ne97961/inventhelp-inventor-develops-new-foot-soaking-tub-bdh-352
+2025-01-23 22:32:02,816 - INFO - Extracting data for article: InventHelp Inventor Develops New Screen Product for Vehicle Windows (ASP-385)
+2025-01-23 22:32:03,465 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250121ne97958/inventhelp-inventor-develops-new-screen-product-for-vehicle-windows-asp-385
+2025-01-23 22:32:04,371 - INFO - Extracting data for article: InventHelp Inventor Develops New Laser Tool with Anchoring System (DAL-566)
+2025-01-23 22:32:09,864 - INFO - Fetching search page 4...
+2025-01-23 22:32:11,989 - INFO - Page 4: Found 10 news items.
+2025-01-23 22:32:11,990 - INFO - Extracting data for article: InventHelp Inventor Develops New Trash Bag Dispenser (DNV-730)
+2025-01-23 22:32:12,702 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250122ne98057/inventhelp-inventor-develops-new-trash-bag-dispenser-dnv-730
+2025-01-23 22:32:13,278 - INFO - Extracting data for article: Sports News | 'Bazball' Inventor McCullum Says England Will Play 'watchful' Cricket in India
+2025-01-23 22:32:15,393 - INFO - Extracting data for article: Balls to it! Inventor Builds Self-Balancing Bike Without Wheels
+2025-01-23 22:32:17,786 - INFO - Extracting data for article: ODDITY Acquires Intellectual Property and Elite AI Research Team to Accelerate AI Capabilities
+2025-01-23 22:32:22,179 - INFO - Extracting data for article: Hoth Therapeutics Expands Cancer Drug Patent Portfolio, Strengthens HT-001 Development Strategy
+2025-01-23 22:32:24,205 - INFO - Extracting data for article: InventHelp Inventor Develops New Weight Sensing Security Pad for Vehicles (FMB-285)
+2025-01-23 22:32:24,443 - ERROR - Error fetching article content from https://www.kxan.com/business/press-releases/cision/20250122NE98061/inventhelp-inventor-develops-new-weight-sensing-security-pad-for-vehicles-fmb-285: 403 Client Error: Forbidden for url: https://www.kxan.com/business/press-releases/cision/20250122NE98061/inventhelp-inventor-develops-new-weight-sensing-security-pad-for-vehicles-fmb-285
+2025-01-23 22:32:24,678 - INFO - Extracting data for article: InventHelp Inventor Develops New Sports Scrubs for Medical Workers (CHK-1169)
+2025-01-23 22:32:25,230 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250120ne94573/inventhelp-inventor-develops-new-sports-scrubs-for-medical-workers-chk-1169
+2025-01-23 22:32:25,870 - INFO - Extracting data for article: InventHelp Inventor Develops New Nightstand for Storing a CPAP Machine (BEC-405)
+2025-01-23 22:32:26,786 - WARNING - Article content selectors failed for URL: https://www.morningstar.com/news/pr-newswire/20250121ne97962/inventhelp-inventor-develops-new-nightstand-for-storing-a-cpap-machine-bec-405
+2025-01-23 22:32:27,433 - INFO - Extracting data for article: InventHelp Inventor Develops Modified Lights for Christmas Trees (DCD-416)
+2025-01-23 22:32:27,641 - ERROR - Error fetching article content from https://www.cnyhomepage.com/business/press-releases/cision/20250122NE98054/inventhelp-inventor-develops-modified-lights-for-christmas-trees-dcd-416: 403 Client Error: Forbidden for url: https://www.cnyhomepage.com/business/press-releases/cision/20250122NE98054/inventhelp-inventor-develops-modified-lights-for-christmas-trees-dcd-416
+2025-01-23 22:32:27,848 - INFO - Extracting data for article: Agency News | \u26a1‘Bazball’ Inventor Brendon McCullum Says England Will Play ‘Watchful’ Cricket in India
+2025-01-23 22:32:28,457 - WARNING - Article content selectors failed for URL: https://www.latestly.com/quickly/agency-news/bazball-inventor-brendon-mccullum-says-england-will-play-watchful-cricket-in-india-6580548.html
+2025-01-23 22:32:30,193 - INFO - Fetching search page 5...
+2025-01-23 22:32:32,373 - INFO - Page 5: Found 10 news items.
+2025-01-23 22:32:32,374 - INFO - Extracting data for article: InventHelp Inventor Develops New Activity/Toss Game (BKC-296)
+2025-01-23 22:32:32,726 - ERROR - Error fetching article content from https://www.kron4.com/business/press-releases/cision/20250121NE97971/inventhelp-inventor-develops-new-activity-toss-game-bkc-296: 403 Client Error: Forbidden for url: https://www.kron4.com/business/press-releases/cision/20250121NE97971/inventhelp-inventor-develops-new-activity-toss-game-bkc-296
+2025-01-23 22:32:32,917 - INFO - Extracting data for article: Semiconductor Intellectual Property (IP) Market is likely to expand US$ 11.0 Billion at 8.97% CAGR by 2032
+2025-01-23 22:32:33,569 - ERROR - Error fetching article content from https://www.einnews.com/pr_news/778846851/semiconductor-intellectual-property-ip-market-is-likely-to-expand-us-11-0-billion-at-8-97-cagr-by-2032: 403 Client Error: Forbidden for url: https://www.einnews.com/pr_news/778846851/semiconductor-intellectual-property-ip-market-is-likely-to-expand-us-11-0-billion-at-8-97-cagr-by-2032
+2025-01-23 22:32:34,128 - INFO - Extracting data for article: InventHelp Inventor Develops Modified Weed Trimmer (CSK-648)
+2025-01-23 22:32:34,375 - ERROR - Error fetching article content from https://www.kxan.com/business/press-releases/cision/20250120NE94585/inventhelp-inventor-develops-modified-weed-trimmer-csk-648: 403 Client Error: Forbidden for url: https://www.kxan.com/business/press-releases/cision/20250120NE94585/inventhelp-inventor-develops-modified-weed-trimmer-csk-648
+2025-01-23 22:32:34,704 - INFO - Extracting data for article: InventHelp Inventor Develops New Shoe Sanitizing Mat (BDH-346)
+2025-01-23 22:32:35,591 - ERROR - Error fetching article content from https://www.fox16.com/business/press-releases/cision/20250121NE97960/inventhelp-inventor-develops-new-shoe-sanitizing-mat-bdh-346: 403 Client Error: Forbidden for url: https://www.fox16.com/business/press-releases/cision/20250121NE97960/inventhelp-inventor-develops-new-shoe-sanitizing-mat-bdh-346
+2025-01-23 22:32:35,834 - INFO - Extracting data for article: InventHelp Inventor Develops New Cooling Product for Palms (BKC-257)
+2025-01-23 22:32:36,144 - ERROR - Error fetching article content from https://www.wjtv.com/business/press-releases/cision/20250121NE97963/inventhelp-inventor-develops-new-cooling-product-for-palms-bkc-257: 403 Client Error: Forbidden for url: https://www.wjtv.com/business/press-releases/cision/20250121NE97963/inventhelp-inventor-develops-new-cooling-product-for-palms-bkc-257
+2025-01-23 22:32:36,532 - INFO - Extracting data for article: Patent filings credit Bharat Biotech as ‘inventor’ of Covaxin, omit ICMR
+2025-01-23 22:32:37,038 - INFO - Extracting data for article: 2024 News items - Intellectual property teachers, researchers: WIPO-WTO Colloquium is open for applications
+2025-01-23 22:32:37,385 - WARNING - Article content selectors failed for URL: https://www.wto.org/english/news_e/news24_e/igo_05nov24_e.htm
+2025-01-23 22:32:37,719 - INFO - Extracting data for article: Daiichi Sankyo Acquires Intellectual Property Rights for Anti-TA-MUC1 Antibody in DS-3939 from Glycotope GmbH
+2025-01-23 22:32:38,660 - ERROR - Error fetching article content from https://www.businesswire.com/news/home/20250113621008/en/Daiichi-Sankyo-Acquires-Intellectual-Property-Rights-for-Anti-TA-MUC1-Antibody-in-DS-3939-from-Glycotope-GmbH: 403 Client Error: Forbidden for url: https://www.businesswire.com/news/home/20250113621008/en/Daiichi-Sankyo-Acquires-Intellectual-Property-Rights-for-Anti-TA-MUC1-Antibody-in-DS-3939-from-Glycotope-GmbH
+2025-01-23 22:32:49,113 - ERROR - Error processing news item: HTTPSConnectionPool(host='www.businesswire.com', port=443): Read timed out. (read timeout=10)
+Traceback (most recent call last):
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connection.py", line 464, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 1395, in getresponse
+    response.begin()
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 325, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\http\client.py", line 286, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1314, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 1166, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 538, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\urllib3\connectionpool.py", line 369, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='www.businesswire.com', port=443): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "e:\Stuff\Study\Programs\TopInvento_Scrapper\main3.py", line 274, in google_news_scraper
+    article_soup_for_metadata = BeautifulSoup(requests.get(link, headers={'User-Agent': get_random_user_agent()}, timeout=10).content, 'html.parser')
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\harsh\AppData\Local\Programs\Python\Python311\Lib\site-packages\requests\adapters.py", line 713, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.businesswire.com', port=443): Read timed out. (read timeout=10)
+2025-01-23 22:32:49,121 - INFO - Extracting data for article: The Art Of A Good Unicorn | Why Intellectual Property could be the best investment for Indian startups
+2025-01-23 22:32:50,638 - WARNING - Article content selectors failed for URL: https://www.hindustantimes.com/opinion/the-art-of-a-good-unicorn-why-intellectual-property-could-be-the-best-investment-for-indian-startups-101730888072193.html
+2025-01-23 22:32:51,874 - INFO - Extracting data for article: InventHelp Inventor Develops New Smart Bed (HAD-334)
+2025-01-23 22:32:52,085 - ERROR - Error fetching article content from https://myfox8.com/business/press-releases/cision/20250122NE98063/inventhelp-inventor-develops-new-smart-bed-had-334: 403 Client Error: Forbidden for url: https://myfox8.com/business/press-releases/cision/20250122NE98063/inventhelp-inventor-develops-new-smart-bed-had-334
+2025-01-23 22:32:54,838 - INFO - Fetching search page 6...
+2025-01-23 22:32:56,999 - INFO - Page 6: Found 10 news items.
+2025-01-23 22:32:57,000 - INFO - Extracting data for article: The Art Of A Good Unicorn | Why Intellectual Property could be the best investment for Indian startups
+2025-01-23 22:32:58,239 - WARNING - Article content selectors failed for URL: https://www.hindustantimes.com/opinion/the-art-of-a-good-unicorn-why-intellectual-property-could-be-the-best-investment-for-indian-startups-101730888072193.html
+2025-01-23 22:32:59,868 - INFO - Scraping stopped: Reached article limit of 50.
+2025-01-23 22:32:59,873 - INFO - Data saved to advanced_ip_news_data_v3.csv
